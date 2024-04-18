@@ -1,6 +1,6 @@
 # Advanced Topics: Advanced Python
 
-# Multithreading:
+# 3.6.1 Multithreading:
 
 # Multithreading allows concurrent execution of multiple threads within a single process. Python's threading module provides a high-level interface for working with threads.
 
