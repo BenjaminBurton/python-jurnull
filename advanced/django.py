@@ -1,6 +1,6 @@
 # Web Development with Python: Advanced Python
 
-# Django:
+# .3.4.2 Django:
 
 # Django is a high-level web framework for Python that encourages rapid development and clean, pragmatic design. It follows the "batteries-included" philosophy and provides everything needed to build web applications.
 
