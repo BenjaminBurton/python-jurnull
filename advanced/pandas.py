@@ -1,6 +1,6 @@
 # Data Science and Machine Learning: Advanced Python
 
-# Pandas:
+# 3.5.2 Pandas:
 
 # Pandas is a powerful library for data manipulation and analysis in Python. It provides data structures like Series and DataFrame, which are designed to handle labeled and relational data easily.
 
