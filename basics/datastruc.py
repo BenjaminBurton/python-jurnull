@@ -1,4 +1,4 @@
-# Data structure basics
+# 1.2 Data structure basics
 
 # Lists : Lists are ordered collections of items, and they can contain elements of different data types.
 
