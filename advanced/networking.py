@@ -1,6 +1,6 @@
 # Advanced Topics: Advanced Python
 
-# Networking:
+# 3.6.3 Networking:
 
 # Python provides several modules for networking, such as socket for low-level networking, http.server for building HTTP servers, and third-party libraries like requests for making HTTP requests.
 
