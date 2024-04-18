@@ -1,23 +1,23 @@
-# python-jurnull
+# Python-/jur/null
 
 1.1 Understanding Python Fundamentals
 
 Python Syntax: Python Snytax is simple and easy to understand. It uses Indentation to define code blocks
 
-# 1.1 Understanding Python Fundamentals
+## 1.1 Understanding Python Fundamentals
 
-# Python Syntax: Python Snytax is simple and easy to understand. It uses Indentation to define code blocks
+## Python Syntax: Python Snytax is simple and easy to understand. It uses Indentation to define code blocks
 
-# Example : Hello World! program
+## Example : Hello World! program
 
 ```bash
 print("Hello, World!")
 ```
 
 
-# Varibles and Data Types: Python supports various data types such as integers, floats, strings, booleans, lists, tuples, dictionaries, and sets
+## Varibles and Data Types: Python supports various data types such as integers, floats, strings, booleans, lists, tuples, dictionaries, and sets
 
-# Example : Varibles and Data Types 
+## Example : Varibles and Data Types 
 
 ```bash
 
@@ -40,10 +40,10 @@ my_set = {1, 2, 3, 4, 5}                    # set
 ```
 
 
-# Basic Operators : Python supports various operators such as arithmetic, comparision, logical, assignment, more
+## Basic Operators : Python supports various operators such as arithmetic, comparision, logical, assignment, more
 
 
-# Example : Basic Operators
+## Example : Basic Operators
 
 ```bash
 x = 10
@@ -51,7 +51,7 @@ x = 10
 y = 3
 
 
-# Arithmetic Operators
+## Arithmetic Operators
 
 print(x + y)                                # Addition
 
@@ -69,7 +69,7 @@ print(x // y)                               # Floor Division
 
 
 
-# Comparision Operators
+## Comparision Operators
 
 print(x == y)                               # Equals to False
 
@@ -85,7 +85,7 @@ print(x <= y)                               # Less than or equal to False
 
 
 
-# Logical Operators
+## Logical Operators
 
 print(x > 5 and y < 10)                     # Logical AND  == True
 
@@ -95,7 +95,7 @@ print(not(x > 5))                           # Logical NOT  == False
 
 
 
-# Assignment Operators
+## Assignment Operators
 
 x += 5                                      # Equivalent to x = x + 5
 
@@ -108,10 +108,10 @@ x /= 5                                      # Equivalent to x = x / 5
 
 
 
-# Input and Output : You can take user input and display output using the `input()` and `print()` functions
+## Input and Output : You can take user input and display output using the `input()` and `print()` functions
 
 
-# Example : Input and Output 
+## Example : Input and Output 
 
 ```bash
 name = input("Enter your name: ")
