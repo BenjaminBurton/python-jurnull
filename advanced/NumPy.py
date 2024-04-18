@@ -1,6 +1,6 @@
 # Data Science and Machine Learning: Advanced Python
 
-# NumPy:
+# 3.5.1 NumPy:
 
 # NumPy is a fundamental package for scientific computing with Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
 
