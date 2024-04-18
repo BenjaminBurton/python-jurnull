@@ -10,12 +10,16 @@ Python Syntax: Python Snytax is simple and easy to understand. It uses Indentati
 
 # Example : Hello World! program
 
+```bash
 print("Hello, World!")
+```
 
 
 # Varibles and Data Types: Python supports various data types such as integers, floats, strings, booleans, lists, tuples, dictionaries, and sets
 
 # Example : Varibles and Data Types 
+
+```bash
 
 x = 10                                      # integer
 
@@ -33,7 +37,7 @@ my_tuple = (1, 2, 3)                        # tuple
 my_dict = {"name", "John", "age", 30}       # dictionary
 
 my_set = {1, 2, 3, 4, 5}                    # set
-
+```
 
 
 # Basic Operators : Python supports various operators such as arithmetic, comparision, logical, assignment, more
@@ -41,7 +45,7 @@ my_set = {1, 2, 3, 4, 5}                    # set
 
 # Example : Basic Operators
 
-
+```bash
 x = 10
 
 y = 3
@@ -100,7 +104,7 @@ x -= 5                                      # Equivalent to x = x - 5
 x *= 5                                      # Equivalent to x = x * 5
 
 x /= 5                                      # Equivalent to x = x / 5
-
+```
 
 
 
@@ -109,5 +113,7 @@ x /= 5                                      # Equivalent to x = x / 5
 
 # Example : Input and Output 
 
+```bash
 name = input("Enter your name: ")
 print("Hello,", name)
+```
