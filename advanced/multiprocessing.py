@@ -1,6 +1,6 @@
 # Advanced Topics: Advanced Python
 
-# Multiprocessing:
+# 3.6.2 Multiprocessing:
 
 # Multiprocessing allows parallel execution of multiple processes, which can take advantage of multiple CPU cores. Python's multiprocessing module provides a similar interface to working with processes as the threading module does for threads.
 
