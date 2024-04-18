@@ -1,6 +1,6 @@
 # Data Science and Machine Learning: Advanced Python
 
-# scikit-learn:
+# 3.5.4 scikit-learn:
 
 # Scikit-learn is a machine learning library for Python that provides simple and efficient tools for data mining and data analysis. It features various algorithms for classification, regression, clustering, dimensionality reduction, and more.
 
