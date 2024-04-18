@@ -1,6 +1,6 @@
 # Data Science and Machine Learning: Advanced Python
 
-# Matplotlib:
+# 3.5.3 Matplotlib:
 
 # Matplotlib is a plotting library for creating static, interactive, and animated visualizations in Python. It provides a wide variety of plots, charts, and graphs for data visualization.
 
