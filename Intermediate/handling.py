@@ -1,4 +1,4 @@
-# Exception Handling: Intermediate Python
+# 2.2 Exception Handling: Intermediate Python
 
 # Handling Exceptions:
 
